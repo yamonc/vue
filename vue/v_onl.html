@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>vue-v-on</title>
+
+
+</head>
+<body>
+
+<div id="app">
+    <input type="button" value="v-on指令" v-on:click="doId">
+    <input type="button" value="v-on简写" @click="doId">
+    <input type="button" value="双击事件" @dblclick="doId">
+    <h2 @click="changeFood">{{food}}</h2>
+</div>
+<script src="../js/vue.js"></script>
+<script>
+    let app = new Vue({
+        el:"#app",
+        data:{
+            food :"西蓝花炒鸡蛋",
+        },
+        methods:{
+            doId:function () {
+                alert("做It")
+            },
+            changeFood:function () {
+                // console.log(this.food)
+                this.food+="好好吃"
+            }
+        }
+    })
+
+</script>
+</body>
+</html>

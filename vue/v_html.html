@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>vue-v-text</title>
+
+
+</head>
+<body>
+
+<div id="app">
+    <p v-html="content"></p>
+    <p v-text="content"></p>
+</div>
+<script src="../js/vue.js"></script>
+<script>
+    let app = new Vue({
+        el:"#app",
+        data:{
+            // content:"黑马程序员"
+            content:"<a href='index.html'>黑马程序员</a>"
+        }
+    })
+</script>
+</body>
+</html>
