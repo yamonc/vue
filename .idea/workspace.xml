@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79206c14-3441-40e1-b9ad-70ffb3d19c43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v_bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v_if、.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v_show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/图片切换案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/模板.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\webstorm\base\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTXaMag8KS9fFsGOwLPWbyfo3V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\webstorm\base\vue" />
+      <recent name="G:\webstorm\base\img" />
+      <recent name="G:\webstorm\base\css" />
+      <recent name="G:\webstorm\base\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79206c14-3441-40e1-b9ad-70ffb3d19c43" name="Default Changelist" comment="" />
+      <created>1582967620224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582967620224</updated>
+      <workItem from="1582967621600" duration="4626000" />
+      <workItem from="1583053650719" duration="2609000" />
+      <workItem from="1583415278431" duration="1726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="340" width="273" height="288" key="Github.ShareDialog" timestamp="1582972292777">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="595" y="340" width="273" height="288" key="Github.ShareDialog/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1582972292777" />
+    <state x="221" y="92" key="SettingsEditor" timestamp="1583416427747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="92" key="SettingsEditor/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583416427747" />
+  </component>
+</project>

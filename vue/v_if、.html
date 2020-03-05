@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>vue-v-show</title>
+
+
+</head>
+<body>
+
+<div id="app">
+    <p v-if="isShow">黑马程序员</p>
+    <p v-if="isShow">黑马程序员</p>
+    <input type="button" value="切换显示" @click="toggleIsShow">
+    <h2 v-if="temprature >= 35" >热死了</h2>
+</div>
+<script src="../js/vue.js"></script>
+<script>
+    let app =new Vue({
+        el: "#app",
+        data :{
+            isShow: false,
+            temprature:22
+        },
+        methods:{
+            toggleIsShow:function(){
+                this.isShow = ! this.isShow;
+            }
+        }
+
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>vue-v-bind</title>
+    <style>
+        .active{
+            border : 1px solid red;
+        }
+    </style>
+
+</head>
+<body>
+
+<div id="app">
+    <img :src="imgSrc" alt="" :title ="imgTitle+'!!!!'" :class="isActive?'active':''" @click="toggleActive">
+    <img v-bind:src="imgSrc"  alt="">
+    <br>
+    <img :src="imgSrc" alt="" :title ="imgTitle+'!!!!'" :class="{active : isActive}" @click="toggleActive">
+</div>
+<script src="../js/vue.js"></script>
+<script>
+    let app =new Vue({
+        el:"#app",
+        data:{
+            imgSrc:"https://i.picsum.photos/id/1000/800/400.jpg",
+            imgTitle :"漂亮的图片",
+            isActive:false
+        },
+        methods:{
+            toggleActive: function () {
+                this.isActive = !this.isActive;
+            }
+        }
+
+    })
+</script>
+</body>
+</html>
