@@ -2,28 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79206c14-3441-40e1-b9ad-70ffb3d19c43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/timg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/v_bind.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/v_if、.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/v_show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/图片切换案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/music/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/weather/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/weather/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/line01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/line02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/person01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/player_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/player_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/shutoff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/weather/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/weather/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/weather/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/music/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/music/模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v-for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v-model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/v-on.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/天气/joke.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/天气/模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/记事本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/记事本1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/模板.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/模板.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,16 +80,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/music" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\webstorm\base\vue" />
-      <recent name="G:\webstorm\base\img" />
-      <recent name="G:\webstorm\base\css" />
-      <recent name="G:\webstorm\base\js" />
+      <recent name="G:\webstorm\base\css\music" />
+      <recent name="G:\webstorm\base\img\music" />
+      <recent name="G:\webstorm\base\vue\music" />
+      <recent name="G:\webstorm\base\vue\天气" />
+      <recent name="G:\webstorm\base\css\weather" />
     </key>
   </component>
   <component name="RunManager">
@@ -103,18 +122,39 @@
       <updated>1582967620224</updated>
       <workItem from="1582967621600" duration="4626000" />
       <workItem from="1583053650719" duration="2609000" />
-      <workItem from="1583415278431" duration="1726000" />
+      <workItem from="1583415278431" duration="1870000" />
+      <workItem from="1583631029685" duration="13170000" />
     </task>
+    <task id="LOCAL-00001" summary="vue案例">
+      <created>1583417019571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583417019571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vue案例dai">
+      <created>1583417126390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583417126390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vue案例" />
+    <MESSAGE value="vue案例dai" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue案例dai" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="42" key="CommitChangelistDialog2" timestamp="1583417018017">
+    <state x="320" y="42" key="CommitChangelistDialog2" timestamp="1583655604489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="42" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583417018017" />
+    <state x="320" y="42" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583655604489" />
     <state x="595" y="340" width="273" height="288" key="Github.ShareDialog" timestamp="1582972292777">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -123,9 +163,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="92" key="SettingsEditor/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583416427747" />
-    <state x="312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1583417029027">
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2" timestamp="1583417132502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="312" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583417029027" />
+    <state x="312" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1366.768@0.0.1440.900" timestamp="1583417132502" />
   </component>
 </project>
